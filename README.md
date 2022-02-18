@@ -1,4 +1,8 @@
-# Curbstones
+# License Plates Detection and Recognition
+Bogacka Karolina, Brynda Marek, Wójcik Mateusz
+
+## Report
+All the results and details on the project are provided in `Report.pdf`.
 
 The additional dataset used for KNN Neighbours model development can be found on https://www.kaggle.com/aladdinss/license-plate-digits-classification-dataset.
 
